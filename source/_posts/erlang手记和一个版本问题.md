@@ -1,7 +1,7 @@
 ---
 title: erlang手记 & 一个版本问题
 date: 2018-06-22 23:07:43
-tags: [dvlp123456,2018,erlang,,技术]
+tags: [dvlp123456,2018,erlang,技术]
 categories: 技术
 description: erlang手记 & 一个版本问题
 ---
